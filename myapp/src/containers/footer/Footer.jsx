@@ -19,7 +19,7 @@ const Footer = () => {
         <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
           <a href='http://linkedin.com/in/het-mamtora/'><p>LinkedIn</p></a>
-          <a href='https://github.com/HetMamtora'><p>GitHub</p></a>
+          <a href='https://github.com/HetMamtora/WhatGPT3-ReactJS'><p>GitHub</p></a>
           <p>Contact</p>
         </div>
         <div className='gpt3__footer-links_div'>
