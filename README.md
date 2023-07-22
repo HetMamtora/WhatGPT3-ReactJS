@@ -5,7 +5,7 @@ Fully responsive web design front end implementation using ReactJS.
 ![image](https://github.com/HetMamtora/WhatGPT3-ReactJS/assets/104263376/dcd8aa8d-452e-4cd9-9163-5559a2a777b4)
 
 Created By : HET MAMTORA <br/>
-LinkedIn : https://www.linkedin.com/in/het-mamtora/ <br/>
+LinkedIn : [Het Mamtora](https://www.linkedin.com/in/het-mamtora/)
 
 - React Functional components and their reusability
 - React file and folder structure
