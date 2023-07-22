@@ -1,5 +1,7 @@
 # WhatGPT3-ReactJS
-Fully responsive web design front end implementation using ReactJS.
+Fully responsive web design front end implementation using ReactJS.<BR>
+If you are here and liked my work I would appreciate a Star from you. 
+
 ### [LIVE DEPLOYMENT](https://whatgpt-3-openai.netlify.app/)
 
 ![image](https://github.com/HetMamtora/WhatGPT3-ReactJS/assets/104263376/dcd8aa8d-452e-4cd9-9163-5559a2a777b4)
