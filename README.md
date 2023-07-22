@@ -4,7 +4,6 @@ Fully responsive web design front end implementation using ReactJS.
 
 Created By : HET MAMTORA <br/>
 LinkedIn : https://www.linkedin.com/in/het-mamtora/ <br/>
-Contact : mamtorahet@yahoo.com <br/>
 
 - React Functional components and their reusability
 - React file and folder structure
